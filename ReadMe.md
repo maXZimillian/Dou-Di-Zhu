@@ -1,4 +1,4 @@
-# Kick Ball Game
+# Dou Di Zhu
 
 Dou Di Zhu is a Unity-based project utilizing free assets and AI sprites. All external assets used in the game can be found in:
 
