@@ -6,6 +6,8 @@ Dou Di Zhu is a Unity-based project utilizing free assets and AI sprites. All ex
 ./Assets/Resources/Packages
 ```
 
+At the moment, the project contains the basic mechanics of laying out cards on the gaming table, as well as the basics for working on the project.
+
 ## Core Components
 
 ### Main Scripts
