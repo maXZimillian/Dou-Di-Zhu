@@ -126,7 +126,7 @@ Replace `PROJECT_FOLDER_NAME` with the actual build folder name.
 ### Backend
 
 - Located in: `/Builds` along with the latest build.
-- Final deployment path: `/var/www/backend/`
+- Final deployment path: `/var/www/DouDiZhu/backend/`
 
 ### Unity Frontend
 
