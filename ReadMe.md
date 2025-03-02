@@ -130,7 +130,7 @@ Replace `PROJECT_FOLDER_NAME` with the actual build folder name.
 
 ### Unity Frontend
 
-- Final deployment path: `/var/www/userproject/`
+- Final deployment path: `/var/www/DouDiZhu/`
 - If paths need to be changed, update `app.py` accordingly.
 
 ## Server Requirements
